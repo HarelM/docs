@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./chunks/framework.335eea45.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basemaps/styles.md","filePath":"basemaps/styles.md"}'),a={name:"basemaps/styles.md"};function r(o,c,n,p,m,l){return s(),t("div")}const i=e(a,[["render",r]]);export{d as __pageData,i as default};
